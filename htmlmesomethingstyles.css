@@ -1,7 +1,43 @@
 @charset "UTF-8";
 /* CSS Document */
-body {font family: Verdana, sans-serif;}
-h1, h2 { color: goldenrod}
-p{ color: slategray}
 
+h1,footer {
+	background-image: url("images/greenlife_contrasted.png");
+	background-repeat: repeat-1;
+	color: goldenrod;
+	text-align: center;
+	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
+}
+body {
+	font-family: Arial Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif"sans-serif;
+	font-size: 16px; 
+	text-align: justify; 
+	vertical-align: 100px;  
+	
+	
+	
+	
 
+}
+h2 { 
+	color: tomato;
+	text-align: center;}
+p{ 
+	color: slategray;
+	}
+
+q{ 
+	color: darkgoldenrod;}
+
+li{
+	list-style-type: circle;
+}
+
+img.align-left { 
+	float: left; 
+	margin-right: 10px;
+}
+img.large {
+	width:500px;
+	height: 500px; 
+}
