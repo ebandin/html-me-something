@@ -1,9 +1,13 @@
 @charset "UTF-8";
 /* CSS Document */
-
+section.newnew {
+	
+	
+}
 h1,footer {
-	background-image: url("images/greenlife_contrasted.png");
+
 	background-repeat: repeat-1;
+	background-blend-mode: darken;
 	color: goldenrod;
 	text-align: center;
 	font-family: Baskerville, "Palatino Linotype", Palatino, "Century Schoolbook L", "Times New Roman", "serif";
@@ -13,11 +17,9 @@ body {
 	font-size: 16px; 
 	text-align: justify; 
 	vertical-align: 100px;  
+	line-height: 1.8em;
+	background-color: palegreen;
 	
-	
-	
-	
-
 }
 h2 { 
 	color: tomato;
@@ -25,7 +27,13 @@ h2 {
 p{ 
 	color: slategray;
 	}
-
+p.new{ 
+	color: slategray;
+	text-align: center;
+	}
+section{ 
+	color: slategray;
+	}
 q{ 
 	color: darkgoldenrod;}
 
