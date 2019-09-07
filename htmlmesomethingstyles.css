@@ -4,6 +4,11 @@ section.newnew {
 	background-image: url("images/greenlife_contrasted.png");
 	
 }
+
+section {
+	margin-bottom: auto;
+	
+}
 h1,footer {
 
 	background-repeat: repeat-1;
